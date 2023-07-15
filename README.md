@@ -3,10 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>React 3D Card - Pair of Trainers</title>
 </head>
 <body>
-  <h1>React 3D Card - Pair of Trainers</h1>
+  <h2>React 3D Card - Pair of Trainers</h2>
   <p>This project is a 3D card component built using React and the Motion library. It showcases a pair of trainers and allows users to interact with the card by rotating it and exploring different angles of the trainers.</p>
   <h2>Installation</h2>
   <ol>
